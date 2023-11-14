@@ -1,2 +1,2 @@
 # test-repository
-Descripción del repo
+Descripción del repo de main
