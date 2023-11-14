@@ -1,3 +1,2 @@
 # test-repository
-Descripción del repo
-cambio en la rama dev, v2
+Descripción del repo cambiado en las dos ramas
